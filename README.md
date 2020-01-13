@@ -1,4 +1,4 @@
-# iSenseCloud
+# Veraphotonics
 
-# Added python script to compute and predict future data and analyze corrections for sensor data on temperature and wavelength.
-Daniel Nguyen
+# Designed Python script to compute and analyze data computed from data given from test results. Worked on a machine learning algorithm to correct current results and predict incoming data. 
+-Daniel Nguyen
